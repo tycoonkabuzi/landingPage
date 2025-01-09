@@ -42,3 +42,22 @@ p {
 .team-member {
   margin-top: 60px;
 }
+.newsletter {
+  color: white;
+  padding-top: 60px;
+  background-image: url("../img/slider-1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-bottom: 60px;
+  text-align: center;
+}
+.newsletter input {
+  width: 80%;
+  margin-right: 1%;
+}
+.newsletter form {
+  width: 60%;
+  margin: auto;
+  margin-top: 40px;
+}
