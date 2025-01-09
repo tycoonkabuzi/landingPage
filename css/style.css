@@ -3,8 +3,8 @@
   padding-bottom: 60px;
   text-align: center;
 }
+
 .eplaination h3 {
-  margin-top: 60px;
   font-weight: 500;
 }
 .explaination h3,
@@ -60,4 +60,14 @@ p {
   width: 60%;
   margin: auto;
   margin-top: 40px;
+}
+.footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  text-align: center;
+  font-size: 14px;
+  color: rgb(91, 91, 91);
+}
+.item-text {
+  padding-top: 40px;
 }
